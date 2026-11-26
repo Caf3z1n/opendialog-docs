@@ -23,6 +23,6 @@
   },
   "devDependencies": {
     "playwright": "^1.62.0",
-    "route-audit": "https://github.com/Caf3z1n/route-audit/releases/download/v0.3.1/route-audit-0.3.1.tgz"
+    "route-audit": "0.3.1"
   }
 }
